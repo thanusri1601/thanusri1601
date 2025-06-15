@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm THANUSRI AENUGULA</h1>
 <h3 align="center">An aspiring data professional :)</h3>
 
-- 🔭 I just finished my internship at Daimler India Commercial Vehicles as a Research and Develpoment intern in Data Driven Engineering team. My responsibilities include building and monitoring the data pipelines using Azure Databricks. I am also working on buidling a model for dynamic brake testing system using AI. 
+- 🔭 I am incoming Master's student in Data Science at Texas A&M University (TAMU). I also just finished my internship at Daimler India Commercial Vehicles as a Research and Develpoment intern in Data Driven Engineering team. My responsibilities include building and monitoring the data pipelines using Azure Databricks. I am also working on buidling a model for dynamic brake testing system using AI. 
 
 - 🌱 I’m currently learning **Azure databricks, Pyspark, PowerBI**
 

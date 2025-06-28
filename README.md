@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Azure databricks, Pyspark, PowerBI**
 
-- 👯 I’m right now pursuing my internship at Daimler India Commercial Vehicles **on Prediction of Brake systems failures**
+- 👯 I’m recently finished my internship at Daimler India Commercial Vehicles **on Prediction of Brake systems failures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thanusri1601](https://github.com/thanusri1601)
 

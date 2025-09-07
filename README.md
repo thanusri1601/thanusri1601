@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thanusri1601@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/103ppY4u3lBjzHXVvHAQ_Kp-q2a_0tXTF/view?usp=sharing](https://drive.google.com/file/d/103ppY4u3lBjzHXVvHAQ_Kp-q2a_0tXTF/view?usp=sharing)
+- 📄 Know about my experiences [Portfolio]([https://drive.google.com/file/d/103ppY4u3lBjzHXVvHAQ_Kp-q2a_0tXTF/view?usp=sharing](https://thanusri1601.github.io/portfolio/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

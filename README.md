@@ -5,13 +5,12 @@
 
 - 🌱 I also just finished my internship at Daimler India Commercial Vehicles as a Research and Develpoment intern in Data Driven Engineering team. My responsibilities include building and monitoring the data pipelines using Azure Databricks. I am also working on buidling a model for dynamic brake testing system using AI. 
 
-- 👨‍💻 All of my projects are available at [https://github.com/thanusri1601](https://github.com/thanusri1601)
-
 - 💬 Ask me about **End to End Data Life Cycle**
 
 - 📫 How to reach me **thanusri1601@gmail.com**
 
-- 📄 Know about my experiences [Portfolio]((https://thanusri1601.github.io/portfolio/))
+- 📄[Know about my experiences (Portfolio)](https://thanusri1601.github.io/portfolio/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

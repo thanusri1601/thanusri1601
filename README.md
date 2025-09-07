@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thanusri1601@gmail.com**
 
-- 📄 Know about my experiences ([Portfolio](https://thanusri1601.github.io/portfolio/))
+- 📄 Know about my experiences ([**Portfolio**](https://thanusri1601.github.io/portfolio/))
 
 
 

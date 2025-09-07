@@ -5,10 +5,6 @@
 
 - 🌱 I also just finished my internship at Daimler India Commercial Vehicles as a Research and Develpoment intern in Data Driven Engineering team. My responsibilities include building and monitoring the data pipelines using Azure Databricks. I am also working on buidling a model for dynamic brake testing system using AI. 
 
-
-
-- 👯 I’m recently finished my internship at Daimler India Commercial Vehicles **on Prediction of Brake systems failures**
-
 - 👨‍💻 All of my projects are available at [https://github.com/thanusri1601](https://github.com/thanusri1601)
 
 - 💬 Ask me about **End to End Data Life Cycle**

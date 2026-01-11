@@ -18,7 +18,7 @@ Technical Skills:
 * Gen AI: LangChain, LangGraph, RAGAS, LLM Fine-tuning (LoRA, QLoRA), RAG, Agentic AI
 
 
-- 🔗 All my projects at ([**Github**]((https://github.com/thanusri1601)))
+- 🔗 All my projects at ([**Github**](https://github.com/thanusri1601))
 
 - 📫 How to reach me **thanusri1601@gmail.com**
 

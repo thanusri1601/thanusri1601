@@ -1,17 +1,31 @@
 <h1 align="center">Hi 👋, I'm THANUSRI AENUGULA</h1>
-<h3 align="center">An aspiring data professional :)</h3>
+<h3 align="center">A data professional :)</h3>
 
-- 🔭 I am Master's student in Data Science at Texas A&M University (TAMU). I am an ambitious professional with a learner mindset and possess experience working cross-functionally in multinational teams. I bring value to the teams I work with via optimization and innovation while being mindful and inclusive. I am Adept in various Data Science technologies. Committed to utilizing my skills to further the mission of your organization. I am amalgamation of both geeky and a practical implementer. I Aspire to work further in the field of Data Science & Python.
+Data - The Currency of Insight!
 
-- 🌱 I also just finished my internship at Daimler India Commercial Vehicles as a Research and Develpoment intern in Data Driven Engineering team. My responsibilities include building and monitoring the data pipelines using Azure Databricks. I am also working on buidling a model for dynamic brake testing system using AI. 
+I am a zealous tech enthusiast pursuing a Master’s in Data Science at Texas A&M University, College Station, with an expected graduation in May 2027. I hold a Bachelor’s degree and I have also completed a Post Graduate Program in Data Science and Business Analytics from the University of Texas at Austin.
 
-- 💬 Ask me about **End to End Data Life Cycle**
+During my internship at Daimler Truck, I spearheaded a project focused on building machine learning models for dynamic brake testing systems. I collaborated closely with cross-functional teams to understand key pain points, conducted rigorous experiments, developed proof-of-concepts (POCs), and ultimately delivered a machine learning solution that significantly reduced testing time.
+
+Currently, as a Student Technician at Texas A&M University, I am working on a research project titled:
+“Multimodal, Multitask Data Analysis for Automated Plant Phenotyping.”
+
+Technical Skills:
+* Programming: Python, C++, C, Shell Scripting, HTML, CSS, JavaScript
+* Python Libraries: PyTorch, TensorFlow, Transformers, LangChain, Matplotlib, OpenCV, NLTK, PySpark
+* Tools & Platforms: AWS, Streamlit, Hadoop, Spark, Git, MySQL, MongoDB
+* AI/ML Architectures & Concepts: CNN, RNN, LSTM, Autoencoders, Supervised Learning, Clustering
+* Gen AI: LangChain, LangGraph, RAGAS, LLM Fine-tuning (LoRA, QLoRA), RAG, Agentic AI
+
+
+- 🔗 All my projects at ([**Github**]((https://github.com/thanusri1601)))
 
 - 📫 How to reach me **thanusri1601@gmail.com**
 
-- 📄 Know about my experiences ([**Portfolio**](https://thanusri1601.github.io/portfolio/))
+- 🌐 Know about my experiences ([**Portfolio**](https://thanusri1601.github.io/portfolio/))
 
 
+Let’s Connect!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

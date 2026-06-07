@@ -3,8 +3,6 @@
 
 Data - The Currency of Insight!
 
-Data - The Currency of Insight!
-
 I am Thanusri Aenugula a zealous tech enthusiast currently interning at H-E-B as a Decision Science Analyst Intern this summer within the Data Science Center of Excellence (DSCOE), collaborating with the Data & AI team and learning from incredible mentors. Super excited for the summer ahead and ready to put my head down, learn as much as I can, and contribute meaningfully to the team. 
 
 I am currently pursuing my Master’s in Data Science at Texas A&M University, College Station, with an expected graduation in May 2027. I hold a Bachelor’s degree and I have also completed a Post Graduate Program in Data Science and Business Analytics from the University of Texas at Austin.

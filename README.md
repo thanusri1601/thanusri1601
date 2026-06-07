@@ -3,12 +3,13 @@
 
 Data - The Currency of Insight!
 
-I am a zealous tech enthusiast pursuing a Master’s in Data Science at Texas A&M University, College Station, with an expected graduation in May 2027. I hold a Bachelor’s degree and I have also completed a Post Graduate Program in Data Science and Business Analytics from the University of Texas at Austin.
+Data - The Currency of Insight!
+
+I am Thanusri Aenugula a zealous tech enthusiast currently interning at H-E-B as a Decision Science Analyst Intern this summer within the Data Science Center of Excellence (DSCOE), collaborating with the Data & AI team and learning from incredible mentors. Super excited for the summer ahead and ready to put my head down, learn as much as I can, and contribute meaningfully to the team. 
+
+I am currently pursuing my Master’s in Data Science at Texas A&M University, College Station, with an expected graduation in May 2027. I hold a Bachelor’s degree and I have also completed a Post Graduate Program in Data Science and Business Analytics from the University of Texas at Austin.
 
 During my internship at Daimler Truck, I spearheaded a project focused on building machine learning models for dynamic brake testing systems. I collaborated closely with cross-functional teams to understand key pain points, conducted rigorous experiments, developed proof-of-concepts (POCs), and ultimately delivered a machine learning solution that significantly reduced testing time.
-
-Currently, as a Student Technician at Texas A&M University, I am working on a research project titled:
-“Multimodal, Multitask Data Analysis for Automated Plant Phenotyping.”
 
 Technical Skills:
 * Programming: Python, C++, C, Shell Scripting, HTML, CSS, JavaScript

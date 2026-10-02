@@ -1,36 +1,45 @@
 <h1 align="center">Hi 👋, I'm THANUSRI AENUGULA</h1>
-<h3 align="center">A data professional :)</h3>
+<h3 align="center">Data Science | AI & Analytics | Machine Learning</h3>
 
-Data - The Currency of Insight!
+I’m Thanusri Aenugula, a Data Science professional with experience across **AI, machine learning, data analytics, and business problem-solving**.
 
-I am Thanusri Aenugula a zealous tech enthusiast currently interning at H-E-B as a Decision Science Analyst Intern this summer within the Data Science Center of Excellence (DSCOE), collaborating with the Data & AI team and learning from incredible mentors. Super excited for the summer ahead and ready to put my head down, learn as much as I can, and contribute meaningfully to the team. 
+I am currently working as an **AI & Data Analytics Associate at AMOT Controls**, where I work on AI-driven workflow automation and data analytics initiatives, collaborating with teams across **Sales, Supply Chain, and business operations** to build data and AI solutions.
 
-I am currently pursuing my Master’s in Data Science at Texas A&M University, College Station, with an expected graduation in May 2027. I hold a Bachelor’s degree and I have also completed a Post Graduate Program in Data Science and Business Analytics from the University of Texas at Austin.
+Previously, I worked as a **Decision Science Analyst Intern at H-E-B** with the **Data Science Center of Excellence (DSCOE)**. I worked with the Data & AI team on an end-to-end **Next-Basket Recommendation System**, analyzing large-scale customer transaction data, identifying purchasing patterns, engineering behavioral and basket-level features, and developing a machine learning model to predict customers’ next purchases.
 
-During my internship at Daimler Truck, I spearheaded a project focused on building machine learning models for dynamic brake testing systems. I collaborated closely with cross-functional teams to understand key pain points, conducted rigorous experiments, developed proof-of-concepts (POCs), and ultimately delivered a machine learning solution that significantly reduced testing time.
+I am currently pursuing my **Master’s in Data Science at Texas A&M University, College Station**, with an expected graduation in **May 2027**. I also hold a **Bachelor’s degree in Electrical & Electronics Engineering** and completed a **Post Graduate Program in Data Science and Business Analytics from The University of Texas at Austin**.
 
-Technical Skills:
-* Programming: Python, C++, C, Shell Scripting, HTML, CSS, JavaScript
-* Python Libraries: PyTorch, TensorFlow, Transformers, LangChain, Matplotlib, OpenCV, NLTK, PySpark
-* Tools & Platforms: AWS, Streamlit, Hadoop, Spark, Git, MySQL, MongoDB
-* AI/ML Architectures & Concepts: CNN, RNN, LSTM, Autoencoders, Supervised Learning, Clustering
-* Gen AI: LangChain, LangGraph, RAGAS, LLM Fine-tuning (LoRA, QLoRA), RAG, Agentic AI
+### 💻 Technical Skills
 
+**Programming:**  
+Python, SQL, R, C++, C, Shell Scripting, HTML, CSS, JavaScript
 
-- 🔗 All my projects at ([**Github**](https://github.com/thanusri1601))
+**Data Science & Machine Learning:**  
+PyTorch, TensorFlow, Scikit-learn, XGBoost, Pandas, NumPy, PySpark, Matplotlib, OpenCV, NLTK
 
-- 📫 How to reach me **thanusri1601@gmail.com**
+**AI / Generative AI:**  
+LLMs, RAG, Agentic AI, LangChain, LangGraph, LoRA, QLoRA, LLM Fine-tuning, RAGAS
 
-- 🌐 Know about my experiences ([**Portfolio**](https://thanusri1601.github.io/portfolio/))
+**Data & Cloud:**  
+AWS, GCP, Azure, Databricks, Spark, Hadoop, MySQL, MongoDB
 
+**Tools & Platforms:**  
+Git, GitHub, Power BI, Tableau, Streamlit
 
-Let’s Connect!
+### 🚀 Areas of Interest
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thanusria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanusria" height="30" width="40" /></a>
-</p>
+- Data Science & Machine Learning
+- AI & Generative AI
+- Agentic AI & LLM Applications
+- Recommendation Systems
+- Predictive Analytics
+- Business & Decision Analytics
+- Data Engineering & Big Data
+- AI-driven Workflow Automation
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🔗 Connect With Me
+
+- 🌐 **Portfolio:** [thanusri1601.github.io/portfolio](https://thanusri1601.github.io/portfolio/)
+- 📫 **Email:** thanusri1601@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/thanusria](https://www.linkedin.com/in/thanusria/)
 

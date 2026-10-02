@@ -43,3 +43,6 @@ Git, GitHub, Power BI, Tableau, Streamlit
 - 📫 **Email:** thanusri1601@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/thanusria](https://www.linkedin.com/in/thanusria/)
 
+
+I’m a firm believer that the learning curve never really ends. Every project is an opportunity to ask better questions, explore something unfamiliar, and turn what I learn into something useful. Take a look below at some of the problems I’ve explored and the things I’ve built along the way.
+
